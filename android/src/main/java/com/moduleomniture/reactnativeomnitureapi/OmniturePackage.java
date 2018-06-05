@@ -21,7 +21,7 @@ public class OmniturePackage implements ReactPackage {
         return nativeModules;
     }
 
-    @Override
+    
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
