@@ -1,4 +1,4 @@
-package com.moduleomniture.reactnativeomnitureapi;
+package com.moduleomniture;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
