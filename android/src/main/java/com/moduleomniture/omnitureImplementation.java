@@ -1,4 +1,4 @@
-package com.moduleomniture.reactnativeomnitureapi;
+package com.moduleomniture;
 
 
 import android.widget.Toast;
